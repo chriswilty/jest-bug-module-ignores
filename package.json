@@ -1,0 +1,14 @@
+{
+  "name": "jest-bug-module-ignores",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Repro of possible Jest bug or documentation ambiguity",
+  "author": "Chris Wilton-Magras",
+  "license": "Unlicence",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
