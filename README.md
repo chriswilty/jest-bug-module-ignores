@@ -5,3 +5,6 @@ Minimal setup for demonstrating bug or documentation ambiguity with Jest's
 npm ci
 npm test
 ```
+
+https://github.com/jestjs/jest/issues/15214
+
